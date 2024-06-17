@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.União" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="statusBarBackground">@color/black</item>
+    </style>
+</resources>
